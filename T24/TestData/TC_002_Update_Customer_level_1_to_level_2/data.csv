@@ -1,0 +1,12 @@
+default;dropdownlist;fieldName:CUST.TYPE;I
+default;textfield;fieldName:SHORT.NAME:1;KANE
+default;textfield;fieldName:NAME.1:1;PRENOM IBOU
+default;textfield;fieldName:MC.TITLE;M.
+default;textfield;fieldName:BIRTH.INCORP.DATE;19891011
+default;textfield;fieldName:LOC.BIRTH;DAKAR
+default;textfield;fieldName:ID.TYPES;1
+default;textfield;fieldName:EXPIRY.DATE;20281010
+default;dropdownlist;fieldName:RESIDE.PROOF;Y
+Adresse;textfield;fieldName:LOC.ZONE;2
+Adresse;textfield;fieldName:LOC.LGA;200
+Adresse;textfield;fieldName:LOC.CITY;200

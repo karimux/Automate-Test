@@ -1,0 +1,10 @@
+default;textfield;fieldName:CUSTOMER;2393266
+default;textfield;fieldName:CURRENCY;XOF
+default;textfield;fieldName:CATEGORY;21057
+default;textfield;fieldName:VALUE.DATE;20210528
+default;textfield;fieldName:NARRATIVE:1;TEST
+default;textfield;fieldName:INTEREST.RATE;5
+default;textfield;fieldName:OUTSTANDING.BAL;150000
+default;textfield;//*/body/div[3]/div[2]/form[1]/div[4]/table/tbody/tr[3]/td/table[1]/tbody/tr[9]/td[3]/input;PR
+default;textfield;//*/body/div[3]/div[2]/form[1]/div[4]/table/tbody/tr[3]/td/table[1]/tbody/tr[10]/td[3]/input;100000
+default;textfield;//*/body/div[3]/div[2]/form[1]/div[4]/table/tbody/tr[3]/td/table[1]/tbody/tr[11]/td[3]/input;6223932667317

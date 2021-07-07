@@ -1,0 +1,5 @@
+default;textfield;fieldName:ACCOUNT.NUMBER;6223932667317
+default;textfield;fieldName:LOCKED.AMOUNT;100000
+default;textfield;fieldName:FROM.DATE;20210528
+default;textfield;fieldName:TO.DATE;20220528
+default;textfield;fieldName:DESCRIPTION;MON COMMENTAIRE

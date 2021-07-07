@@ -1,0 +1,4 @@
+default;textfield;fieldName:CREDIT.RISK:1;4
+default;textfield;fieldName:EXCEPTION.REASONS:1;1
+default;textfield;fieldName:APPROVED.AMT;600000
+default;textfield;fieldName:APPROVED.TERM;11

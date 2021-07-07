@@ -1,0 +1,1 @@
+Pour jouer ce cas, il faut avoir un client mineur et mettre son code account généré dans le fichier data.csv

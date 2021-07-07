@@ -1,0 +1,2 @@
+default;textfield;fieldName:CUST.DEPOSIT;100000
+default;dropdownlist;fieldName:INFOR.MOTIV;COVID19

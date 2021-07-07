@@ -1,0 +1,4 @@
+default;textfield;fieldName:DEBIT.ACCT.NO;1420995607316
+default;textfield;fieldName:DEBIT.AMOUNT;7000000
+default;textfield;fieldName:PAYMENT.DETAILS:1;TRANSFERT VERS LE COMPTE D UN AUTRE
+default;textfield;fieldName:CREDIT.ACCT.NO;1001076157317

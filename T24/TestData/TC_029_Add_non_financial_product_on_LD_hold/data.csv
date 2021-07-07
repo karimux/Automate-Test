@@ -1,0 +1,7 @@
+default;textfield;fieldName:FIRST.PAYM.DATE;20210702
+default;textfield;fieldName:INSURANCE.CO;SONAM
+default;textfield;fieldName:CSD.AMOUNT;1
+default;textfield;fieldName:COLLATERAL.ID:1;2500653.1.1
+Produits non financiers associes;radiobutton;radio:tab5:PNF.CUST.TYPE;NORMAL
+Produits non financiers associes;textfield;fieldName:PNF.PRODUCT.TYP:1;TECHNO.POP2
+Produits non financiers associes;textfield;fieldName:PNF.QUANTITY:1;1

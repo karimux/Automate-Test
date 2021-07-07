@@ -1,0 +1,5 @@
+default;textfield;radio:mainTab:LEGAL.DOC.REQ;Y
+default;textfield;fieldName:CSD.AMOUNT;1
+Produits non financiers associes;radiobutton;radio:tab5:PNF.CUST.TYPE;NORMAL
+Produits non financiers associes;textfield;fieldName:PNF.PRODUCT.TYP:1;TECHNO.POP2
+Produits non financiers associes;textfield;fieldName:PNF.QUANTITY:1;1

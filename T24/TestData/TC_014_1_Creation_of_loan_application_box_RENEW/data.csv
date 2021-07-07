@@ -1,0 +1,7 @@
+default;textfield;fieldName:EXISTING.LOAN.ID;LD2036100020
+default;textfield;fieldName:AMT.REQUESTED;500000
+default;textfield;fieldName:TERM.REQUESTED;10
+default;textfield;fieldName:LOAN.PURPOSE;1
+default;textfield;fieldName:LOAN.TYPE;CREDIT
+default;textfield;fieldName:REPAYMENT.TYPE;ANNUITY
+default;dropdownlist;fieldName:PRICE.CONTROL;YES

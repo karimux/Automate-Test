@@ -1,0 +1,14 @@
+default;textfield;fieldName:SHORT.NAME:1;KANE
+default;textfield;fieldName:NAME.1:1;PRENOM IBRAHIMA
+default;textfield;fieldName:BIRTH.INCORP.DATE;19891011
+default;textfield;fieldName:INITIALS;MS
+default;radiobutton;radio:mainTab:GENDER;MALE
+default;textfield;fieldName:LEGAL.ID:1;1777198903037
+default;textfield;fieldName:DELIVER.DATE;20181010
+default;textfield;fieldName:ACCOUNT.OFFICER;1049
+default;textfield;fieldName:DELIVER.L;SN
+default;textfield;fieldName:IFC.NUMBER;1234580
+default;dropdownlist;fieldName:RESIDE.PROOF;Y
+default;textfield;fieldName:DELIVER.L;SN
+Adresse;textfield;fieldName:STREET:1;CITE ALIOU SOW
+Contact;textfield;fieldName:TEL.MOBILE:1;767840672

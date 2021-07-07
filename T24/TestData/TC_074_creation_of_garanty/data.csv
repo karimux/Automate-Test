@@ -1,0 +1,6 @@
+default;textfield;fieldName:VEH.BRAND;TOYOTA
+default;textfield;fieldName:VEH.MODEL;AURIS
+default;textfield;fieldName:VEH.SERIAL.NO;DK 4727 BM
+default;textfield;fieldName:COLL.YEAR;2012
+default;textfield;fieldName:ESTIMATED VALUE;9000000
+default;textfield;fieldName:NOTES:1; VOITURE DE LUXE GRISE

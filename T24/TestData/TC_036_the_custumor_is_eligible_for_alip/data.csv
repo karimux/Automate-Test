@@ -1,0 +1,3 @@
+default;textfield;fieldName:AMOUNT;4000000
+default;textfield;fieldName:NEW.LD.TENOR;8
+default;textfield;fieldName:FIRST.PAY.DATE;20210703

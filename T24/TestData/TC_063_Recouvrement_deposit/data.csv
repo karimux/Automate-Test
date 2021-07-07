@@ -1,0 +1,7 @@
+default;textfield;fieldName:ACCOUNT.1:1;12345678
+default;textfield;fieldName:AMOUNT.LOCAL.1:1;5000
+default;textfield;fieldName:DRAW.CUST.NAME;LUI MEME
+default;textfield;fieldName:COLLECT.DATE;20210528
+default;textfield;fieldName:PROVISIONAL.REF;123456789
+default;textfield;fieldName:CO DAO;1910
+default;checkbox;CheckBox:fieldName:TEMP.RECEIPT;
